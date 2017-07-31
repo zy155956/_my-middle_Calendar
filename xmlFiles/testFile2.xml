@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventWrapper>
+    <id>4d3390d0-2421-42b2-aa40-a7286aa3f368</id>
+    <name>testName1</name>
+    <desctiption>testDescription1</desctiption>
+    <startEvent>2017-07-10T14:36:08.302</startEvent>
+    <finishEvent>2017-07-10T14:36:09.473</finishEvent>
+    <persons>
+        <email>testEmail1</email>
+        <firstName>testFirstName1</firstName>
+        <lastName>testLastName1</lastName>
+        <phone>testPhone1</phone>
+    </persons>
+</eventWrapper>
