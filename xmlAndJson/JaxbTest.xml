@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testJaxb>
+    <listString>numb=0</listString>
+    <listString>numb=1</listString>
+    <listString>numb=2</listString>
+    <listString>numb=3</listString>
+    <listString>numb=4</listString>
+    <listWrapper>
+        <listJaxb>
+            <first>first</first>
+        </listJaxb>
+        <listJaxb>
+            <first>first</first>
+        </listJaxb>
+        <listJaxb>
+            <first>first</first>
+        </listJaxb>
+        <listJaxb>
+            <first>first</first>
+        </listJaxb>
+        <listJaxb>
+            <first>first</first>
+        </listJaxb>
+    </listWrapper>
+    <str1>str1</str1>
+    <numb1>11</numb1>
+    <bool>true</bool>
+    <jaxb>
+        <first>first</first>
+    </jaxb>
+</testJaxb>

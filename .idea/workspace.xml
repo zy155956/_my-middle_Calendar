@@ -14,12 +14,27 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestEnum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/TestEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,8 +48,45 @@
         <option value="$PROJECT_DIR$/client/src/main/java/CalendarStore.java" />
         <option value="$PROJECT_DIR$/client/web/WEB-INF/spring/dispatcher.xml" />
         <option value="$PROJECT_DIR$/client/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/Test1.java" />
+        <option value="$PROJECT_DIR$/xmlAndJson/JaxbTest.xml" />
+        <option value="$PROJECT_DIR$/test/notJUnit/TestJaxb2.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/TestJackson2.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/TestJackson.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/XmlAndJson.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/TestJaxb.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/TestJackson.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/TestJaxb.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/TestJackson2.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/XmlAndJson.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/TestJaxb2.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/TestJaxb.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/json/TestJackson2.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/Animals.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/Dog.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/Cat.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Pets.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/PetsInt.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/PetsString.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/TestEnum.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/TestAnimals.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/jaxbObjects/TestJaxb2.java" />
+        <option value="$PROJECT_DIR$/xmlAndJson/anyObjectTest.xml" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/TestAnimals.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Dog.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Cat.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Animals.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/enumss/PetsInt.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/enumss/PetsString.java" />
+        <option value="$PROJECT_DIR$/test/notJUnit/testXmlJson/TestEnum.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -54,7 +106,7 @@
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1384" />
-    <option name="height" value="738" />
+    <option name="height" value="752" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -71,9 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -86,258 +135,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Calendar7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.project.settings" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects2\Calendar7" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects2\Calendar7\client\src\main\java" />
       <recent name="D:\Projects2\test7" />
       <recent name="D:\Projects2\test7\src\main\webapp\WEB-INF\spring" />
       <recent name="D:\Projects2\test7\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects2\Calendar7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -352,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
+  <component name="RunManager" selected="Application.TestEnum">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="VM_PARAMETERS" />
@@ -364,6 +185,62 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="client" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notJUnit.Test1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Calendar7" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestXmlAndJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notJUnit.testXmlJson.TestXmlAndJson" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Calendar7" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notJUnit.testXmlJson.TestAnimals" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Calendar7" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notJUnit.testXmlJson.TestEnum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Calendar7" />
       <envs />
       <method />
     </configuration>
@@ -438,12 +315,41 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M18" ALTERNATIVE_JRE_ENABLED="false">
@@ -503,13 +409,21 @@
         </option>
       </method>
     </configuration>
-    <list size="2">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestXmlAndJson" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestAnimals" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestEnum" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestEnum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestAnimals" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestXmlAndJson" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -526,25 +440,26 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
+    <frame x="-9" y="-9" width="1384" height="752" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261944" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261944" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25378788" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16060606" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Archetypes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Archetypes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39966273" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -553,9 +468,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="91" y="91" width="1184" height="552" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -565,61 +483,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/web.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/calendar/CalendarStoreImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-975">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/client/src/main/java/CalendarStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,6 +545,853 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5270">
+          <caret line="1111" column="4" lean-forward="true" selection-start-line="1111" selection-start-column="4" selection-end-line="1111" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#String#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#hash#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#1;class#String#0" expanded="false" />
+            <element signature="method#String#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#3;class#String#0" expanded="false" />
+            <element signature="method#String#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#4;class#String#0" expanded="false" />
+            <element signature="method#String#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#5;class#String#0" expanded="false" />
+            <element signature="method#String#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#6;class#String#0" expanded="false" />
+            <element signature="method#checkBounds#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#7;class#String#0" expanded="false" />
+            <element signature="method#String#7;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#8;class#String#0" expanded="false" />
+            <element signature="method#String#8;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#9;class#String#0" expanded="false" />
+            <element signature="method#String#9;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#10;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#11;class#String#0" expanded="false" />
+            <element signature="method#String#11;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#12;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#13;class#String#0" expanded="false" />
+            <element signature="method#String#13;class#String#0" expanded="false" />
+            <element signature="docComment;method#String#14;class#String#0" expanded="false" />
+            <element signature="method#String#15;class#String#0" expanded="false" />
+            <element signature="docComment;method#length#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#charAt#0;class#String#0" expanded="false" />
+            <element signature="method#charAt#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#codePointAt#0;class#String#0" expanded="false" />
+            <element signature="method#codePointAt#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#codePointBefore#0;class#String#0" expanded="false" />
+            <element signature="method#codePointBefore#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#codePointCount#0;class#String#0" expanded="false" />
+            <element signature="method#codePointCount#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#offsetByCodePoints#0;class#String#0" expanded="false" />
+            <element signature="method#offsetByCodePoints#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#getChars#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#getChars#1;class#String#0" expanded="false" />
+            <element signature="method#getChars#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#0;class#String#0" expanded="false" />
+            <element signature="method#getBytes#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#1;class#String#0" expanded="false" />
+            <element signature="method#getBytes#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#2;class#String#0" expanded="false" />
+            <element signature="method#getBytes#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#getBytes#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#String#0" expanded="false" />
+            <element signature="method#equals#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#contentEquals#0;class#String#0" expanded="false" />
+            <element signature="method#nonSyncContentEquals#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#contentEquals#1;class#String#0" expanded="false" />
+            <element signature="method#contentEquals#1;class#String#0" expanded="false" />
+            <element signature="method#equalsIgnoreCase#0;class#String#0" expanded="false" />
+            <element signature="method#compareTo#0;class#String#0" expanded="false" />
+            <element signature="docComment;field#CASE_INSENSITIVE_ORDER#0;class#String#0" expanded="false" />
+            <element signature="class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="method#compare#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#readResolve#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="method#readResolve#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#compareToIgnoreCase#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#regionMatches#0;class#String#0" expanded="false" />
+            <element signature="method#regionMatches#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#regionMatches#1;class#String#0" expanded="false" />
+            <element signature="method#regionMatches#1;class#String#0" expanded="false" />
+            <element signature="e#52980#53033#0" expanded="false" />
+            <element signature="e#53402#53466#0" expanded="false" />
+            <element signature="docComment;method#startsWith#0;class#String#0" expanded="false" />
+            <element signature="method#startsWith#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#startsWith#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#endsWith#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#String#0" expanded="false" />
+            <element signature="method#hashCode#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#1;class#String#0" expanded="false" />
+            <element signature="method#indexOf#1;class#String#0" expanded="false" />
+            <element signature="e#60775#60829#0" expanded="false" />
+            <element signature="docComment;method#indexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="method#indexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#1;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#1;class#String#0" expanded="false" />
+            <element signature="e#64802#64856#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOfSupplementary#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#3;class#String#0" expanded="false" />
+            <element signature="method#indexOf#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#4;class#String#0" expanded="false" />
+            <element signature="method#indexOf#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#indexOf#5;class#String#0" expanded="false" />
+            <element signature="method#indexOf#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#3;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#4;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#lastIndexOf#5;class#String#0" expanded="false" />
+            <element signature="method#lastIndexOf#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#substring#0;class#String#0" expanded="false" />
+            <element signature="method#substring#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#substring#1;class#String#0" expanded="false" />
+            <element signature="method#substring#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#subSequence#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#concat#0;class#String#0" expanded="false" />
+            <element signature="method#concat#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replace#0;class#String#0" expanded="false" />
+            <element signature="method#replace#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#matches#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replaceFirst#0;class#String#0" expanded="false" />
+            <element signature="method#replaceFirst#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replaceAll#0;class#String#0" expanded="false" />
+            <element signature="method#replaceAll#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#replace#1;class#String#0" expanded="false" />
+            <element signature="method#replace#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#split#0;class#String#0" expanded="false" />
+            <element signature="method#split#0;class#String#0" expanded="false" />
+            <element signature="e#92274#92285#0" expanded="false" />
+            <element signature="docComment;method#split#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#join#0;class#String#0" expanded="false" />
+            <element signature="method#join#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#join#1;class#String#0" expanded="false" />
+            <element signature="method#join#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#toLowerCase#0;class#String#0" expanded="false" />
+            <element signature="method#toLowerCase#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toLowerCase#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#toUpperCase#0;class#String#0" expanded="false" />
+            <element signature="method#toUpperCase#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toUpperCase#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#trim#0;class#String#0" expanded="false" />
+            <element signature="method#trim#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#toCharArray#0;class#String#0" expanded="false" />
+            <element signature="method#toCharArray#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#format#0;class#String#0" expanded="false" />
+            <element signature="method#format#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#format#1;class#String#0" expanded="false" />
+            <element signature="method#format#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#2;class#String#0" expanded="false" />
+            <element signature="docComment;method#copyValueOf#0;class#String#0" expanded="false" />
+            <element signature="docComment;method#copyValueOf#1;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#3;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#4;class#String#0" expanded="false" />
+            <element signature="method#valueOf#4;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#5;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#6;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#7;class#String#0" expanded="false" />
+            <element signature="docComment;method#valueOf#8;class#String#0" expanded="false" />
+            <element signature="docComment;method#intern#0;class#String#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1006">
+          <caret line="526" column="26" lean-forward="false" selection-start-line="526" selection-start-column="26" selection-end-line="526" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="891" column="15" lean-forward="false" selection-start-line="891" selection-start-column="15" selection-end-line="891" selection-end-column="15" />
+          <folding>
+            <element signature="docComment;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#MIN_VALUE#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#MAX_VALUE#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#TYPE#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#digits#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Integer#0" expanded="false" />
+            <element signature="method#toString#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toUnsignedString#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toHexString#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toOctalString#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toBinaryString#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toUnsignedString0#0;class#Integer#0" expanded="false" />
+            <element signature="method#toUnsignedString0#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#formatUnsignedInt#0;class#Integer#0" expanded="false" />
+            <element signature="method#formatUnsignedInt#0;class#Integer#0" expanded="false" />
+            <element signature="e#13557#13617#0" expanded="false" />
+            <element signature="docComment;method#toString#1;class#Integer#0" expanded="false" />
+            <element signature="method#toString#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toUnsignedString#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#getChars#0;class#Integer#0" expanded="false" />
+            <element signature="method#getChars#0;class#Integer#0" expanded="false" />
+            <element signature="e#16643#16688#0" expanded="false" />
+            <element signature="method#stringSize#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#parseInt#0;class#Integer#0" expanded="false" />
+            <element signature="method#parseInt#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#parseInt#1;class#Integer#0" expanded="false" />
+            <element signature="method#parseInt#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#parseUnsignedInt#0;class#Integer#0" expanded="false" />
+            <element signature="method#parseUnsignedInt#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#parseUnsignedInt#1;class#Integer#0" expanded="false" />
+            <element signature="method#parseUnsignedInt#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#Integer#0" expanded="false" />
+            <element signature="method#valueOf#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;class#IntegerCache#0;class#Integer#0" expanded="false" />
+            <element signature="class#IntegerCache#0;class#Integer#0" expanded="false" />
+            <element signature="initializer##0;class#IntegerCache#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#valueOf#2;class#Integer#0" expanded="false" />
+            <element signature="method#valueOf#2;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#Integer#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#Integer#1;class#Integer#0" expanded="false" />
+            <element signature="method#Integer#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#byteValue#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#shortValue#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#intValue#0;class#Integer#0" expanded="false" />
+            <element signature="e#33891#33892#0" expanded="false" />
+            <element signature="e#33919#33920#0" expanded="false" />
+            <element signature="docComment;method#longValue#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#floatValue#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#doubleValue#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toString#2;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#hashCode#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Integer#0" expanded="false" />
+            <element signature="method#equals#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#getInteger#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#getInteger#1;class#Integer#0" expanded="false" />
+            <element signature="method#getInteger#1;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#getInteger#2;class#Integer#0" expanded="false" />
+            <element signature="method#getInteger#2;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#decode#0;class#Integer#0" expanded="false" />
+            <element signature="method#decode#0;class#Integer#0" expanded="false" />
+            <element signature="e#45337#45404#0" expanded="false" />
+            <element signature="docComment;method#compareTo#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#compare#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#compareUnsigned#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#toUnsignedLong#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#divideUnsigned#0;class#Integer#0" expanded="false" />
+            <element signature="method#divideUnsigned#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#remainderUnsigned#0;class#Integer#0" expanded="false" />
+            <element signature="method#remainderUnsigned#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#SIZE#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#BYTES#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#highestOneBit#0;class#Integer#0" expanded="false" />
+            <element signature="method#highestOneBit#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#lowestOneBit#0;class#Integer#0" expanded="false" />
+            <element signature="method#lowestOneBit#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#numberOfLeadingZeros#0;class#Integer#0" expanded="false" />
+            <element signature="method#numberOfLeadingZeros#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#numberOfTrailingZeros#0;class#Integer#0" expanded="false" />
+            <element signature="method#numberOfTrailingZeros#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#bitCount#0;class#Integer#0" expanded="false" />
+            <element signature="method#bitCount#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#rotateLeft#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#rotateRight#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#reverse#0;class#Integer#0" expanded="false" />
+            <element signature="method#reverse#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#signum#0;class#Integer#0" expanded="false" />
+            <element signature="method#signum#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#reverseBytes#0;class#Integer#0" expanded="false" />
+            <element signature="method#reverseBytes#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#sum#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#max#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;method#min#0;class#Integer#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#Integer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="443" column="11" lean-forward="false" selection-start-line="443" selection-start-column="11" selection-end-line="443" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
+          <caret line="872" column="4" lean-forward="true" selection-start-line="872" selection-start-column="4" selection-end-line="872" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#ThreadGroup#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#ThreadGroup#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#ThreadGroup#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#ThreadGroup#2;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#ThreadGroup#3;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#checkParentAccess#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#getParent#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#getParent#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#getMaxPriority#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#isDaemon#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#isDestroyed#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#setDaemon#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#setDaemon#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#setMaxPriority#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#setMaxPriority#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#parentOf#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#parentOf#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#checkAccess#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#checkAccess#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#activeCount#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#activeCount#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#11654#11707#0" expanded="false" />
+            <element signature="docComment;method#enumerate#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#enumerate#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#enumerate#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#enumerate#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#enumerate#2;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#activeGroupCount#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#activeGroupCount#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#enumerate#3;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#enumerate#3;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#enumerate#4;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#enumerate#4;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#enumerate#5;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#stop#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#stop#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#interrupt#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#interrupt#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#suspend#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#23679#23690#0" expanded="false" />
+            <element signature="method#suspend#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#stopOrSuspend#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#stopOrSuspend#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#resume#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#26118#26129#0" expanded="false" />
+            <element signature="method#resume#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#destroy#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#destroy#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#add#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#29020#29073#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#remove#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#29683#29734#0" expanded="false" />
+            <element signature="docComment;method#addUnstarted#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#addUnstarted#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#add#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#31522#31575#0" expanded="false" />
+            <element signature="e#31645#31707#0" expanded="false" />
+            <element signature="docComment;method#threadStartFailed#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#threadStartFailed#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#threadTerminated#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#threadTerminated#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#remove#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#remove#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="e#33829#33881#0" expanded="false" />
+            <element signature="docComment;method#list#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#list#1;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#uncaughtException#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#uncaughtException#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#allowThreadSuspension#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="method#allowThreadSuspension#0;class#ThreadGroup#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#ThreadGroup#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Spliterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3044">
+          <caret line="295" column="17" lean-forward="false" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="99" column="19" lean-forward="false" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="143" column="44" lean-forward="true" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
+          <folding>
+            <element signature="docComment;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#toArray#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#toArray#1;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#containsAll#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#addAll#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#removeAll#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#removeIf#0;class#Collection#0" expanded="false" />
+            <element signature="method#removeIf#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#retainAll#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#spliterator#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#stream#0;class#Collection#0" expanded="false" />
+            <element signature="docComment;method#parallelStream#0;class#Collection#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="138" column="11" lean-forward="false" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#Properties#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;field#defaults#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#Properties#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#Properties#1;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#setProperty#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#load#0;class#Properties#0" expanded="false" />
+            <element signature="method#load#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#load#1;class#Properties#0" expanded="false" />
+            <element signature="method#load#1;class#Properties#0" expanded="false" />
+            <element signature="method#load0#0;class#Properties#0" expanded="false" />
+            <element signature="class#LineReader#0;class#Properties#0" expanded="false" />
+            <element signature="method#LineReader#0;class#LineReader#0;class#Properties#0" expanded="false" />
+            <element signature="method#LineReader#1;class#LineReader#0;class#Properties#0" expanded="false" />
+            <element signature="method#readLine#0;class#LineReader#0;class#Properties#0" expanded="false" />
+            <element signature="e#17521#17564#0" expanded="false" />
+            <element signature="method#loadConvert#0;class#Properties#0" expanded="false" />
+            <element signature="method#saveConvert#0;class#Properties#0" expanded="false" />
+            <element signature="e#23637#23694#0" expanded="false" />
+            <element signature="method#writeComments#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#save#0;class#Properties#0" expanded="false" />
+            <element signature="method#save#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#store#0;class#Properties#0" expanded="false" />
+            <element signature="method#store#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#store#1;class#Properties#0" expanded="false" />
+            <element signature="method#store#1;class#Properties#0" expanded="false" />
+            <element signature="method#store0#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#loadFromXML#0;class#Properties#0" expanded="false" />
+            <element signature="method#loadFromXML#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#storeToXML#0;class#Properties#0" expanded="false" />
+            <element signature="method#storeToXML#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#storeToXML#1;class#Properties#0" expanded="false" />
+            <element signature="method#storeToXML#1;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#getProperty#0;class#Properties#0" expanded="false" />
+            <element signature="method#getProperty#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#getProperty#1;class#Properties#0" expanded="false" />
+            <element signature="method#getProperty#1;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#propertyNames#0;class#Properties#0" expanded="false" />
+            <element signature="method#propertyNames#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#stringPropertyNames#0;class#Properties#0" expanded="false" />
+            <element signature="method#stringPropertyNames#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#list#0;class#Properties#0" expanded="false" />
+            <element signature="method#list#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#list#1;class#Properties#0" expanded="false" />
+            <element signature="method#list#1;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#enumerate#0;class#Properties#0" expanded="false" />
+            <element signature="method#enumerate#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#enumerateStringProperties#0;class#Properties#0" expanded="false" />
+            <element signature="method#enumerateStringProperties#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;method#toHex#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;field#hexDigit#0;class#Properties#0" expanded="false" />
+            <element signature="docComment;class#XmlSupport#0;class#Properties#0" expanded="false" />
+            <element signature="class#XmlSupport#0;class#Properties#0" expanded="false" />
+            <element signature="method#loadProviderFromProperty#0;class#XmlSupport#0;class#Properties#0" expanded="false" />
+            <element signature="method#loadProviderAsService#0;class#XmlSupport#0;class#Properties#0" expanded="false" />
+            <element signature="method#loadProvider#0;class#XmlSupport#0;class#Properties#0" expanded="false" />
+            <element signature="method#load#0;class#XmlSupport#0;class#Properties#0" expanded="false" />
+            <element signature="method#save#0;class#XmlSupport#0;class#Properties#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ByteArrayOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="139" column="4" lean-forward="true" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/FilterOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3595">
+          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1270">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;field#textOut#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#requireNonNull#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#requireNonNull#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#toCharset#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#toCharset#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#1;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#2;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#3;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#4;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#4;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#5;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#5;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#6;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#6;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#7;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#7;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#8;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#8;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#PrintStream#9;class#PrintStream#0" expanded="false" />
+            <element signature="method#PrintStream#9;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#ensureOpen#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#ensureOpen#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#flush#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#flush#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#close#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#checkError#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#checkError#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#setError#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#clearError#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#write#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#write#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#write#1;class#PrintStream#0" expanded="false" />
+            <element signature="method#write#1;class#PrintStream#0" expanded="false" />
+            <element signature="method#write#2;class#PrintStream#0" expanded="false" />
+            <element signature="method#write#3;class#PrintStream#0" expanded="false" />
+            <element signature="method#newLine#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#1;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#2;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#3;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#4;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#5;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#6;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#7;class#PrintStream#0" expanded="false" />
+            <element signature="method#print#7;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#print#8;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#1;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#1;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#2;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#2;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#3;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#3;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#4;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#4;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#5;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#5;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#6;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#6;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#7;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#7;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#8;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#8;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#println#9;class#PrintStream#0" expanded="false" />
+            <element signature="method#println#9;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#printf#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#printf#1;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#format#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#format#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#format#1;class#PrintStream#0" expanded="false" />
+            <element signature="method#format#1;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#append#0;class#PrintStream#0" expanded="false" />
+            <element signature="method#append#0;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#append#1;class#PrintStream#0" expanded="false" />
+            <element signature="method#append#1;class#PrintStream#0" expanded="false" />
+            <element signature="docComment;method#append#2;class#PrintStream#0" expanded="false" />
+            <element signature="method#append#2;class#PrintStream#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/bind/annotation/XmlType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/bind/annotation/XmlElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1568">
+          <caret line="140" column="18" lean-forward="false" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.jar!/com/fasterxml/jackson/annotation/JsonPropertyOrder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4-sources.jar!/com/fasterxml/jackson/annotation/JsonPropertyOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlAndJson/List.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4-sources.jar!/com/fasterxml/jackson/annotation/JsonAutoDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275">
+          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlAndJson/JaxbTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4-sources.jar!/com/fasterxml/jackson/annotation/JsonTypeInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/json/TestJackson2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/json/TestJackson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#TestJackson#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="49" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#1031:1122" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/jaxbObjects/TestJaxb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/jaxbObjects/TestJaxb2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/TestXmlAndJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="48" column="77" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="77" />
+          <folding>
+            <element signature="docComment;class#TestXmlAndJson#0" expanded="false" />
+            <element signature="method#unmarshalXML#0;class#TestXmlAndJson#0" expanded="false" />
+            <element signature="method#marshalJson#0;class#TestXmlAndJson#0" expanded="false" />
+            <element signature="method#unmarshalJson#0;class#TestXmlAndJson#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/xml/bind/annotation/XmlAnyElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="249" column="18" lean-forward="false" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="104" lean-forward="false" selection-start-line="8" selection-start-column="104" selection-end-line="8" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/animals/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/TestAnimals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlAndJson/anyObjectTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/enumss/PetsString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlAndJson/JacksonTest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlAndJson/enumTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/xml/enumss/PetsInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/notJUnit/testXmlJson/TestEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="23" column="53" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -752,11 +1463,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|client</last-edited>
+          <last-edited>Calendar7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
