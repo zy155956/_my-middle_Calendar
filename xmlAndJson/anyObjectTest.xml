@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <animals>
-    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cat"/>
-    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dog"/>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="cat" atr1="atr1" atr2="atr1">
+        <name>kitty</name>
+    </list>
+    <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dog">
+        <name>msDog</name>
+    </list>
 </animals>

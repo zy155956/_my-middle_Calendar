@@ -1,5 +1,6 @@
 package notJUnit.testXmlJson.xml.animals;
 
+import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
@@ -10,5 +11,6 @@ import javax.xml.bind.annotation.XmlType;
 @XmlType(name = "dog")
 @XmlRootElement
 public class Dog {
+    @XmlElement
     private String name = "msDog";
 }

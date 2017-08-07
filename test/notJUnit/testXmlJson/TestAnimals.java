@@ -27,8 +27,8 @@ public class TestAnimals {
         marsh.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
         marsh.marshal(animals, file);
 
-        Unmarshaller unm = context.createUnmarshaller();
+        /*Unmarshaller unm = context.createUnmarshaller();
         Animals anm = (Animals)unm.unmarshal(file);
-        System.out.println(anm);
+        System.out.println(anm);*/
     }
 }
