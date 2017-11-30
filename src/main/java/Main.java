@@ -1,5 +1,3 @@
-package service;
-
 import service.JAXBimpl.PersistJAXBimpl;
 import service.events.EventImpl;
 import service.events.EventWrapper;
@@ -17,6 +15,7 @@ import java.util.concurrent.ExecutionException;
 
 /**
  * Created by Nike on 09.07.2017.
+ * Тестируем service. Запускаем service, получаем данные от Client, и преобразуем их в xmk, json файлы
  */
 public class Main {
     public static void main(String[] args)throws IOException {

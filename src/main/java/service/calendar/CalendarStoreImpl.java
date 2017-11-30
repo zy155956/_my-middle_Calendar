@@ -8,7 +8,8 @@ import javax.xml.bind.JAXBException;
 import java.io.File;
 import java.util.*;
 
-public class CalendarStoreImpl implements CalendarStore {private Map<UUID, Event> events = new HashMap<>();
+public class CalendarStoreImpl implements CalendarStore {
+    private Map<UUID, Event> events = new HashMap<>();
     private PersistJAXBimpl jaxb = new PersistJAXBimpl();
 
     @Override

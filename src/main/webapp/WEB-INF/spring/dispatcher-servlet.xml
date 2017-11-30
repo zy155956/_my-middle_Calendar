@@ -9,7 +9,7 @@
 
     <bean id="remoteEntry" class="org.springframework.remoting.rmi.RmiServiceExporter">
         <property name="serviceName" value="RemoteCalendar"/>
-        <property name="registryPort" value="1777"/>
+        <property name="registryPort" value="1199"/>
         <property name="service" ref="calendar"/>
         <property name="serviceInterface" value="service.calendar.CalendarStore"/>
     </bean>

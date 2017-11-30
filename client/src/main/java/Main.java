@@ -11,6 +11,7 @@ import java.util.UUID;
 
 /**
  * Created by Nike on 09.07.2017.
+ * Тестируем service сторону после запуска самого service. Создаем обьекты и передаем их с помощью remote proxy
  */
 public class Main {
     public static void main(String[] args) {

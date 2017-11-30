@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="calendarService" class="org.springframework.remoting.rmi.RmiProxyFactoryBean">
-        <property name="serviceUrl" value="rmi://localhost:1199/CalendarService"/>
-        <property name="serviceInterface" value="com.diosoft.sample.calendar.service.CalendarService"/>
+        <property name="serviceUrl" value="rmi://localhost:1199/RemoteCalendar"/>
+        <property name="serviceInterface" value="CalendarStore"/>
     </bean>
 </beans>
